@@ -1,5 +1,5 @@
 /**
-* This is a calculator application written for CS Lab 2 Section 2 by Vicente Leyba.  The calculator takes floating expression and integer expression entered by the user and outputs the expression and result on the screen
+* This is a calculator application written for CS 111 Lab 2 Section 2 by Vicente Leyba.  The calculator takes floating expression and integer expression entered by the user and outputs the expression and result on the screen
 */
 
 

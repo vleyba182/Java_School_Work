@@ -1,5 +1,5 @@
 /**
-* This is a calculator application written for CS Lab 3 Section 3 at New Mexico Tech by Vicente Leyba. September 28, 2007. The calculator takes floating expression and integer expression entered by the user and outputs the expression and result on the screen
+* This is a calculator application written for CS 111 Lab 3 Section 3 by Vicente Leyba. The calculator takes floating expression and integer expression entered by the user and outputs the expression and result on the screen
 */
 
 //
